@@ -1,0 +1,23 @@
+./main 0.00000001 2000
+integral value: 3.141593
+execution time: 1.46 s
+
+./main 0.00000001 5000
+integral value: 3.141593
+execution time: 2.67 s
+
+./main 0.000000001 2000
+integral value: 3.141593
+execution time: 5.07 s
+
+./main 0.000000001 1000
+integral value: 3.141593
+execution time: 5.09 s
+
+./main 0.0000000014 5000
+integral value: 3.141593
+execution time: 6.58 s
+
+./main 0.0000127 5000
+integral value: 3.141605
+execution time: 10.13 s

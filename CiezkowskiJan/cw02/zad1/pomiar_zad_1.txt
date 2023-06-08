@@ -1,0 +1,7 @@
+pomiar uzyskany dla funkcji bibliotecznych:
+
+czas operacji: 0 ticks
+
+pomiar uzyskany dla funkcji systemowych:
+
+czas operacji: 1 ticks

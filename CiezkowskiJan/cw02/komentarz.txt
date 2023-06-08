@@ -1,0 +1,4 @@
+Wszystkie zadania zostaly rozwiazane i dzialaja.
+Ponadto, do kazdego zadania w pliku Makefile dodany jest
+target "test" prezentujacy dzialanie programu (test zadania 4
+moze wyswietlic blad, natomiast wczesniej udowadnia poprawnosc dzialania)

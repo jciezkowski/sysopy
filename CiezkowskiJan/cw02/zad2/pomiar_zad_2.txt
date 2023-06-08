@@ -1,0 +1,7 @@
+dla danych czytanych znak po znaku:
+
+czas operacji: 0 ticks
+
+dla danych czytanych blok po bloku:
+
+czas operacji: 0 ticks

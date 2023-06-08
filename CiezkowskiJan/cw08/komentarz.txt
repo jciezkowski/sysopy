@@ -1,0 +1,31 @@
+Oba zadania z zestawu zostaly zrealizowane i dzialaja poprawnie.
+
+W pierwszym zadaniu tworzone jest tyle samo watkow, co komorek.
+Alokacja pamieci przechowujacej watki oraz tworzenie tych watkow
+odbywaja sie w funkcji init_grid. Funkcja tworzaca watki
+przyjmuje jako argument wskaznik na strukture zawierajaca
+wskazniki na background i foreground oraz liczba oznaczajaca
+numer komorki, za ktorej stan dany watek ma odpowiadac. Aby
+zakonczyc dzialanie programu, nalezy uzyc kombinacji klawiszy
+CTRL+C. Handler sygnalu (sigint_handler) najpierw zwalnia pamiec
+przechowujaca watki (plik grid.c), a nastepnie wywoluje funkcje
+free_memory zwalniajaca zasoby zaalokowane w pliku life.c.
+Ponadto, free_memory realizuje rowniez mechanizm przerywajacy
+petle, co w konsekwencji umozliwia opuszczenie trybu "curses"
+i poprawne zakonczenie programu.
+
+Drugie zadanie zaklada rownomierny podzial pracy miedzy watki,
+ktorych liczba zostaje podana przez uzytkownika jako argument
+programu. Na poczatku program przeprowadza kontrole argumentow,
+a nastepnie w przypadku poprawnosci danych pobiera wprowadzona
+liczbe i przekazuje ja do funkcji init_grid. Tam program tworzy
+wymagana liczbe watkow. Przekazywana struktura jest taka sama,
+jak w poprzednim zadaniu, natomiast liczba przechowywana przez
+strukture oznacza numer watku. Aby rozdzielic prace na tyle
+rownomiernie, jak to mozliwe, kolejne komorki przydzielane sa
+watkom w sposob cykliczny. Przykladowo, dla 3 watkow pierwszy
+obsluguje komorki o numerach 0, 3, 6..., drugiemu przypadaja
+numery 1, 4, 7..., a trzeciemu 2, 5, 8... Podobnie jak w zadaniu
+pierwszym funkcja obslugujaca sygnal SIGINT zwalnia zasoby
+zaalokowane w pliku grid.c i wywoluje funkcje odpowiedzialna za
+zwolnienie pamieci w pliku life.c. 

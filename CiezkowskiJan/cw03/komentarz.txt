@@ -1,0 +1,2 @@
+Wszystkie zadania zostaly zrealizowane. Do kazdego zadania dolaczono
+w pliku Makefile testy sprawdzajace dzialanie programow.

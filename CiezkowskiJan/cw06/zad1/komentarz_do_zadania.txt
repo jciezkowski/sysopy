@@ -1,0 +1,12 @@
+Informacje dotyczace programu:
+Dostepne polecenia dla klientow:
+"list" - wypisanie aktywnych klientow, ich id oraz kluczy kolejek
+"toone [id] [message]" - wyslanie wiadomosci [message] do klienta [id]
+"toall [message]" - wyslanie wiadomosci [message] do wszystkich aktywnych klientow
+"stop" - wylaczenie klienta
+"read" - odczytanie wiadomosci
+
+W przypadku wylaczenia serwera przed wylaczeniem klientow serwer wysyla informacje
+o zakonczeniu pracy. Wowczas dowolne dzialanie po stronie klienta skutkuje wylaczeniem.
+
+Po zakonczeniu pracy serwera wszystkie wykonane dzialania zostaja zapisane do pliku logs.txt.

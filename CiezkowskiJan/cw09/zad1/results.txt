@@ -1,0 +1,176 @@
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 0
+Elf: czeka 2 elfów na Mikołaja, 1
+Elf: czeka 3 elfów na Mikołaja, 2
+Elf: wybudzam Mikołaja, 2
+Elf: samodzielnie rozwiązuję swój problem, 3
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 0, 1, 2
+Elf: samodzielnie rozwiązuję swój problem, 4
+Elf: samodzielnie rozwiązuję swój problem, 5
+Elf: samodzielnie rozwiązuję swój problem, 7
+Elf: samodzielnie rozwiązuję swój problem, 6
+Elf: samodzielnie rozwiązuję swój problem, 8
+Elf: samodzielnie rozwiązuję swój problem, 9
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 8
+Elf: czeka 2 elfów na Mikołaja, 1
+Elf: czeka 3 elfów na Mikołaja, 3
+Elf: wybudzam Mikołaja, 3
+Elf: samodzielnie rozwiązuję swój problem, 7
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 8, 1, 3
+Elf: samodzielnie rozwiązuję swój problem, 4
+Elf: samodzielnie rozwiązuję swój problem, 5
+Elf: samodzielnie rozwiązuję swój problem, 0
+Elf: samodzielnie rozwiązuję swój problem, 9
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 6
+Elf: czeka 2 elfów na Mikołaja, 2
+Renifer: czeka 1 reniferów na Mikołaja, 1
+Renifer: czeka 2 reniferów na Mikołaja, 6
+Renifer: czeka 3 reniferów na Mikołaja, 5
+Renifer: czeka 4 reniferów na Mikołaja, 4
+Renifer: czeka 5 reniferów na Mikołaja, 3
+Renifer: czeka 6 reniferów na Mikołaja, 8
+Renifer: czeka 7 reniferów na Mikołaja, 7
+Renifer: czeka 8 reniferów na Mikołaja, 2
+Renifer: czeka 9 reniferów na Mikołaja, 0
+Renifer: wybudzam Mikołaja, 0
+Mikołaj: budzę się
+Mikołaj: dostarczam zabawki
+Elf: czeka 3 elfów na Mikołaja, 0
+Elf: wybudzam Mikołaja, 0
+Elf: samodzielnie rozwiązuję swój problem, 7
+Elf: samodzielnie rozwiązuję swój problem, 3
+Elf: samodzielnie rozwiązuję swój problem, 1
+Elf: samodzielnie rozwiązuję swój problem, 5
+Elf: samodzielnie rozwiązuję swój problem, 9
+Elf: samodzielnie rozwiązuję swój problem, 8
+Elf: samodzielnie rozwiązuję swój problem, 4
+Mikołaj: zasypiam
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 6, 2, 0
+Elf: samodzielnie rozwiązuję swój problem, 7
+Elf: samodzielnie rozwiązuję swój problem, 5
+Elf: samodzielnie rozwiązuję swój problem, 8
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 4
+Elf: czeka 2 elfów na Mikołaja, 3
+Elf: czeka 3 elfów na Mikołaja, 1
+Elf: wybudzam Mikołaja, 1
+Elf: samodzielnie rozwiązuję swój problem, 5
+Elf: samodzielnie rozwiązuję swój problem, 9
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 4, 3, 1
+Elf: samodzielnie rozwiązuję swój problem, 8
+Elf: samodzielnie rozwiązuję swój problem, 0
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 7
+Elf: czeka 2 elfów na Mikołaja, 9
+Renifer: czeka 1 reniferów na Mikołaja, 5
+Renifer: czeka 2 reniferów na Mikołaja, 2
+Renifer: czeka 3 reniferów na Mikołaja, 0
+Elf: czeka 3 elfów na Mikołaja, 2
+Elf: wybudzam Mikołaja, 2
+Elf: samodzielnie rozwiązuję swój problem, 6
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 7, 9, 2
+Elf: samodzielnie rozwiązuję swój problem, 8
+Renifer: czeka 4 reniferów na Mikołaja, 4
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 1
+Renifer: czeka 5 reniferów na Mikołaja, 8
+Elf: czeka 2 elfów na Mikołaja, 0
+Elf: czeka 3 elfów na Mikołaja, 5
+Elf: wybudzam Mikołaja, 5
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 1, 0, 5
+Renifer: czeka 6 reniferów na Mikołaja, 6
+Elf: samodzielnie rozwiązuję swój problem, 7
+Elf: samodzielnie rozwiązuję swój problem, 3
+Elf: samodzielnie rozwiązuję swój problem, 4
+Elf: samodzielnie rozwiązuję swój problem, 6
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 8
+Renifer: czeka 7 reniferów na Mikołaja, 1
+Renifer: czeka 8 reniferów na Mikołaja, 7
+Renifer: czeka 9 reniferów na Mikołaja, 3
+Renifer: wybudzam Mikołaja, 3
+Mikołaj: budzę się
+Mikołaj: dostarczam zabawki
+Elf: czeka 2 elfów na Mikołaja, 2
+Elf: czeka 3 elfów na Mikołaja, 7
+Elf: wybudzam Mikołaja, 7
+Elf: samodzielnie rozwiązuję swój problem, 4
+Elf: samodzielnie rozwiązuję swój problem, 9
+Elf: samodzielnie rozwiązuję swój problem, 1
+Elf: samodzielnie rozwiązuję swój problem, 6
+Elf: samodzielnie rozwiązuję swój problem, 5
+Elf: samodzielnie rozwiązuję swój problem, 0
+Elf: samodzielnie rozwiązuję swój problem, 3
+Mikołaj: zasypiam
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 8, 2, 7
+Elf: samodzielnie rozwiązuję swój problem, 9
+Elf: samodzielnie rozwiązuję swój problem, 4
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 5
+Elf: czeka 2 elfów na Mikołaja, 3
+Elf: czeka 3 elfów na Mikołaja, 6
+Elf: wybudzam Mikołaja, 6
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 5, 3, 6
+Elf: samodzielnie rozwiązuję swój problem, 1
+Elf: samodzielnie rozwiązuję swój problem, 7
+Elf: samodzielnie rozwiązuję swój problem, 9
+Mikołaj: zasypiam
+Elf: czeka 1 elfów na Mikołaja, 4
+Elf: czeka 2 elfów na Mikołaja, 8
+Elf: czeka 3 elfów na Mikołaja, 0
+Elf: wybudzam Mikołaja, 0
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 4, 8, 0
+Elf: samodzielnie rozwiązuję swój problem, 2
+Elf: samodzielnie rozwiązuję swój problem, 3
+Elf: samodzielnie rozwiązuję swój problem, 6
+Elf: samodzielnie rozwiązuję swój problem, 9
+Renifer: czeka 1 reniferów na Mikołaja, 3
+Renifer: czeka 2 reniferów na Mikołaja, 8
+Elf: samodzielnie rozwiązuję swój problem, 1
+Elf: samodzielnie rozwiązuję swój problem, 5
+Mikołaj: zasypiam
+Renifer: czeka 3 reniferów na Mikołaja, 6
+Renifer: czeka 4 reniferów na Mikołaja, 2
+Renifer: czeka 5 reniferów na Mikołaja, 5
+Renifer: czeka 6 reniferów na Mikołaja, 0
+Elf: czeka 1 elfów na Mikołaja, 7
+Renifer: czeka 7 reniferów na Mikołaja, 4
+Renifer: czeka 8 reniferów na Mikołaja, 1
+Elf: czeka 2 elfów na Mikołaja, 1
+Elf: czeka 3 elfów na Mikołaja, 6
+Elf: wybudzam Mikołaja, 6
+Elf: samodzielnie rozwiązuję swój problem, 9
+Mikołaj: budzę się
+Mikołaj: rozwiązuje problemy elfów 7, 1, 6
+Renifer: czeka 9 reniferów na Mikołaja, 7
+Renifer: wybudzam Mikołaja, 7
+Elf: samodzielnie rozwiązuję swój problem, 2
+Elf: samodzielnie rozwiązuję swój problem, 3
+Elf: samodzielnie rozwiązuję swój problem, 4
+Elf: samodzielnie rozwiązuję swój problem, 8
+Elf: samodzielnie rozwiązuję swój problem, 0
+Elf: samodzielnie rozwiązuję swój problem, 5
+Elf: samodzielnie rozwiązuję swój problem, 9
+Mikołaj: dostarczam zabawki
+Elf: czeka 1 elfów na Mikołaja, 3
+Elf: czeka 2 elfów na Mikołaja, 0
+Elf: czeka 3 elfów na Mikołaja, 5
+Elf: wybudzam Mikołaja, 5
+Elf: samodzielnie rozwiązuję swój problem, 2
+Elf: samodzielnie rozwiązuję swój problem, 8
+Elf: samodzielnie rozwiązuję swój problem, 4
+Elf: samodzielnie rozwiązuję swój problem, 1
+Elf: samodzielnie rozwiązuję swój problem, 7
+Elf: samodzielnie rozwiązuję swój problem, 9
+Mikołaj: dostarczyłem 3 prezenty

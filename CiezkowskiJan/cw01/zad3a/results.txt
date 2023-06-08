@@ -1,0 +1,488 @@
+main_dynamic
+
+REPL> wpisano: init 100
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count commands.txt
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count dll.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.a
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.h
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.o
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.so
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_dynamic
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_shared
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_static
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count Makefile
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count results.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 0
+
+ 30  58 342 commands.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 1
+
+ 35  80 725 dll.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 2
+
+  10   71 3559 lib_wc.a
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 3
+
+  68  183 1711 lib_wc.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 4
+
+ 30  60 682 lib_wc.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 5
+
+   7   56 3365 lib_wc.o
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 6
+
+   20   151 11864 lib_wc.so
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 6
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 5
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 4
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 3
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 2
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 1
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 0
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: destroy
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: exit
+
+main_static
+
+REPL> wpisano: init 100
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count commands.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count dll.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.a
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.c
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.o
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.so
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_dynamic
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_shared
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_static
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count Makefile
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count results.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 0
+
+ 30  58 342 commands.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 1
+
+ 35  80 725 dll.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 2
+
+  10   71 3559 lib_wc.a
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 3
+
+  68  183 1711 lib_wc.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 4
+
+ 30  60 682 lib_wc.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 5
+
+   7   56 3365 lib_wc.o
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 6
+
+   20   151 11864 lib_wc.so
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 6
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 5
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 4
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 3
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 2
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 1
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 0
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: destroy
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: exit
+
+main_shared
+
+REPL> wpisano: init 100
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count commands.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count dll.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.a
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.o
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count lib_wc.so
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_dynamic
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_shared
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count main_static
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count Makefile
+
+Real time: 0.01 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: count results.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 0
+
+ 30  58 342 commands.txt
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 1
+
+ 35  80 725 dll.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 2
+
+  10   71 3559 lib_wc.a
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 3
+
+  68  183 1711 lib_wc.c
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 4
+
+ 30  60 682 lib_wc.h
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 5
+
+   7   56 3365 lib_wc.o
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: show 6
+
+   20   151 11864 lib_wc.so
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 6
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 5
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 4
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 3
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 2
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 1
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: delete 0
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: destroy
+
+Real time: 0.00 s
+User time: 0.00 s
+System time: 0.00 s
+REPL> wpisano: exit

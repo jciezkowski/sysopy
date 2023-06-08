@@ -1,0 +1,15 @@
+hello
+Adam: czesc wszystkim
+Robert: witajcie
+Ania: jak sie macie?
+LIST OF ACTIVE USERS:
+Adam
+Robert
+Ania
+
+LIST OF ACTIVE USERS:
+Robert
+Ania
+
+Robert: czesc Ania
+Disconnected

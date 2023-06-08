@@ -1,0 +1,2 @@
+Wykonano zadania 1 oraz 2. Do zadania 2 zostal dolaczony test
+potwierdzajacy dzialanie programu.

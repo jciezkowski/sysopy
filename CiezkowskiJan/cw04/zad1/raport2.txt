@@ -1,0 +1,4 @@
+Program wykonuje polecenia poprawnie. Zgodnie z oczekiwaniami,
+proces wywolany przez funkcje fork() nie dziedziczy ustawien
+sygnalow, natomiast dziedziczenie nastepuje w przypadku uzycia
+funkcji execl().

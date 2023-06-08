@@ -1,0 +1,23 @@
+server starts
+new client, Adam
+Pinging
+new client, Robert
+new client, Ania
+Pinging
+Adam: sending to all
+Pinging
+Robert: sending to all
+Ania: sending to all
+Pinging
+Ania: listing
+Adam: stopping
+Ania: listing
+Pinging
+Robert: sending to one
+Pinging
+Ania: sending to one
+Pinging
+Ania: stopping
+Robert: listing
+Robert: stopping
+Pinging

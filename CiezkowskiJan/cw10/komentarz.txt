@@ -1,0 +1,38 @@
+Oba zadania w pelni zrealizowane.
+
+Dzialanie programow:
+Na poczatku startuje serwer, przyjmujac jako argumenty numer portu oraz
+sciezke gniazda lokalnego. Nastepnie otwiera plik, w ktorym zapisywane
+sa logi programu. Kolejnym krokiem jest upewnienie sie, ze podana sciezka
+jest niewykorzystana, dzieki czemu mozna utworzyc gniazdo. Potem tworzone
+sa oba gniazda, a nastepnie dodawane sa do nowego Epolla. Nastepnie inicjowana
+jest tablica przechowujaca informacje o klientach. Realizowana jest obsluga
+sygnalu konczacego prace serwera oraz watek wysylajacy cykliczne pingi.
+Potem tworzona jest struktura sluzaca obsludze przychodzacych danych,
+po czym zaczyna sie petla realizujaca te obsluge. W petli serwer czeka
+na nowe dane i sprawdza, skad zostaly dostarczone. W przypadku, gdy nadawca
+to gniazdo serwera, mamy do czynienia z nowym uzytkownikiem, ktory zostaje
+zapisany w tablicy (jesli spelnia wymagania). W przeciwnym wypadku klient
+wyslal prosbe o realizacje jednego z polecen, ktore jest nastepnie obslugiwane
+w osobnej funkcji.
+
+Klient przyjmuje jako argumenty: nazwe, tryb polaczenia, sciezke do gniazda
+lokalnego/adres ip oraz opcjonalny argument w postaci numeru portu. Po obsluzeniu
+bledow tworzone jest gniazdo, ktore laczy sie z serwerem. Nastepnie realizowana
+jest obsluga sygnalu konczacego prace klienta. Kolejnym krokiem jest stworzenie
+Epolla, ktory monitoruje gniazdo klienta oraz standardowe wejscie. Potem
+klient wysyla do serwera swoja nazwe, co umozliwia rejestracje. Po wykonaniu
+tych krokow rozpoczyna sie petla sprawdzajaca obecnosc nowych danych. Gdy
+nadawca to standardowe wejscie, program zczytuje wprowadzone dane i po ich
+przetworzeniu wysyla do serwera prosbe o realizacje polecenia. W przypadku,
+gdy nadawca jest gniazdo klienta, program rejestruje wiadomosc wyslana przez
+serwer i dokonuje obslugi.
+
+Wlasne struktury wykorzystane w implementacji to msg_buffer oraz client. Ich pola
+zaleza od wariantu implementacji. W przypadku gniazd strumieniowych, pierwsza
+ze struktur zawiera informacje o nadawcy wiadomosci, jej adresacie, tresc
+wiadomosci, typ polecenia oraz czas wyslania wiadomosci. Z kolei druga struktura
+zawiera deskryptor klienta sluzacy do komunikacji serwer -> klient, nazwe klienta
+i flage opisujaca, czy dany klient jest aktywny. Wariant wykorzystujacy gniazda
+datagramowe modyfikuje obie struktury, dodajac informacje o strukturze adresu
+i wielkosci tej struktury.  

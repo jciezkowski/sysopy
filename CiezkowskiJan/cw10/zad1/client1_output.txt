@@ -1,0 +1,11 @@
+hello
+Adam: wiadomosc testowa
+Ania: czesc Robert
+
+Adam: wrocilem
+LIST OF ACTIVE USERS:
+Robert
+Adam
+Ania
+
+Disconnected

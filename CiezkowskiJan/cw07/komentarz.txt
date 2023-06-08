@@ -1,0 +1,8 @@
+Wykonano oba zadania. Zadanie 1 dziala zgodnie z zalozeniami. Zadanie 2 nie jest dokonczone,
+natomiast obecny stan kodu pokazuje idee dzialania.
+
+Aby sprawdzic dzialanie zadan, nalezy skompilowac program poleceniem make, a nastepnie w terminalu
+wywolac polecenie:
+./main [liczba fryzjerow] [liczba foteli] [liczba miejsc w poczekalni] [liczba dostepnych fryzur]
+Proponowane dane dobrze obrazujace dzialanie programu przy ustawionych w kodzie dzialaniach losowych
+to 5 2 5 10. Zdefiniowana w kodzie maksymalna liczba foteli to 10.

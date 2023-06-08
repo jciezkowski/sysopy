@@ -1,0 +1,19 @@
+hello
+LIST OF ACTIVE USERS:
+Robert
+Adam
+Ania
+
+Adam: wiadomosc testowa
+LIST OF ACTIVE USERS:
+Robert
+Ania
+
+Robert: czesc Ania
+Adam: wrocilem
+LIST OF ACTIVE USERS:
+Robert
+Adam
+Ania
+
+Disconnected

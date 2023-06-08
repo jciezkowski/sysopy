@@ -1,0 +1,18 @@
+Wykonano zadanie w wersji trudniejszej. Archiwum zawiera rowniez plik
+results.txt zawierajacy efekt wywolania programu. Dodatkowo plik Makefile
+oferuje mozliwosc przetestowania programu, co powoduje aktualizacje
+results.txt
+
+Program na samym poczatku alokuje pamiec potrzebna do utworzenia watkow
+dla reniferow i elfow. Nastepnie instalowana jest obsluga sygnalu SIGINT
+umozliwiajaca zatrzymanie programu w dowolnym momencie. Potem nastepuje
+utworzenie potrzebnych watkow, ktore wykonuja odpowiednie dla siebie
+petle. Symulacja zachowania Mikolaja jest realizowana w watku glownym.
+Watek Mikolaja zasypia warunkowo i czeka na sygnal od elfow i reniferow.
+Po obudzeniu sprawdza, ktory warunek zostal spelniony (z zachowaniem
+priorytetu dla elfow). Aktywnosci reniferow i elfow rowniez sa realizowane
+przy pomocy warunkow sprawdzajacych. Watki zostaja uspione do momentu,
+w ktorym odpowiadajaca im zmienna zostanie wyzerowana przez Mikolaja.
+Program konczy sie, gdy Mikolaj dostarczy prezenty 3 razy, wowczas 
+zwalniana jest pamiec zaalokowana na potrzeby watkow i petla Mikolaja
+zostaje opuszczona.
